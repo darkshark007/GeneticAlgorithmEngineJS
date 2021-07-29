@@ -1,0 +1,2 @@
+# GeneticAlgorithmEngineJS
+GeneticAlgorithmEngine, Javascript iteration
